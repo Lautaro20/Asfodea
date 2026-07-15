@@ -1,7 +1,7 @@
 export const faqsData = [
   {
     question: "+Como funciona el sist de devolucion?",
-    answer: "En Asfodea tenemos un sistema de devolucion de envases de vidrio, en dónde con cada envase y caja de nuestros productos que devuelves a los puntos de compra de Asfodea: puedes integrarte a nuestro ciclo de reciclado y ganar descuentos y hasta productos gratis!"
+    answer: "En Asfodea contamos con un sistema de reciclaje de papel y vidrio para nuestros productos, asegurandonos que podemos alargar la vida util de nuestra materia prima al maximo, o que puede volver a procesarse conscientemente. Por esta razón, alentamos a nuetros clientes a que una vez que acaben los productos, nos regresen los empaques y envases, de esta manera podemos volver a usarlos, o procesarlos si hiciera falta."
   },
   {
     question: "+Qué debo hacer?",

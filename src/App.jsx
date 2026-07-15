@@ -17,10 +17,7 @@ export default function App() {
           <CicloGraphic />
         </div>
         <p className="hero-text fade-in-up">
-          En Asfodea tenemos un sistema de devolucion de envases de vidrio, 
-          en dónde con cada envase y caja de nuestros productos que devuelves 
-          a los puntos de compra de Aafodea: puedes integrarte a nuestro ciclo de 
-          reciclado y ganar descuetes y hasta productos gratis!
+          En Asfodea tenemos un sistema de devolucion de envases de vidrio, en dónde con cada envase y caja de nuestros productos que devuelves a los puntos de compra de Asfodea: puedes integrarte a nuestro ciclo de reciclado y ganar descuentos y hasta productos gratis!
         </p>
       </header>
 
