@@ -46,12 +46,30 @@ body {
   position: relative; /* Asegura el apilamiento correcto */
 }
 
+/* --- NAV BAR --- */
+.navbar {
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  z-index: 10;
+  position: relative; /* Asegura el apilamiento correcto */
+}
+
+/* Reemplaza la regla anterior de .nav-brand por estas dos: */
 .nav-brand {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 1.6rem;
-  font-style: italic;
-  font-weight: bold;
-  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.nav-brand img {
+  height: 32px; /* Ajusta esta altura para cambiar el tamaño del logo */
+  width: auto;
+  display: block;
 }
 
 .nav-menu {

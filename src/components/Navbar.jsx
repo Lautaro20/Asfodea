@@ -1,4 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
+// Cambia la ruta según dónde guardes el archivo de la imagen en tu proyecto
+import logoAsfodea from '../assets/logoAsfodea.png'; 
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -14,7 +16,9 @@ export default function Navbar() {
 
   return (
     <nav className="navbar fade-in-down">
-      <div className="nav-brand">ASFODEA</div>
+      <div className="nav-brand">
+        <img src={logoAsfodea} alt="Asfodea Logo" />
+      </div>
       
       <div className={`hamburger ${isMenuOpen ? 'open' : ''}`} onClick={toggleMenu}>
         <span></span>
