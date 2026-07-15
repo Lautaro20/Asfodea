@@ -5,11 +5,11 @@ export const faqsData = [
   },
   {
     question: "+Qué debo hacer?",
-    answer: "Como cliente Asfodea puedes llevarte una tarjeta de fidelidad par allevar analogicamente tus devoluciones, o con tu compra registrarte en nuestra pagina, de este modo tus devoluciones se registraran automaticamente. Para llevar el registro debes devolver el envase y empaque al punto de compra donde los adquiriste (o a cualquiera donde se venda Asfodea)"
+    answer: "Como cliente Asfodea, puedes llevarte una tarjeta de fidelidad para llevar analógicamente tus devoluciones; sino, con tu compra y registrandote en nuestra página, cada envase aue devuelvas se registrará automáticamente. Para participar debés devolver los envases y empaques de tus productos Asfodea al punto de compra donde los adquiriste (o cualquiera autorizados)"
   },
   {
     question: "+Que materiales debo traer?",
-    answer: "Puede spresentar a devolucion el envase de vidrio y la caja de carton que lo contuvo. esos son los materiales que podemos prosezar."
+    answer: "Puedes presentar a devolución el envase de vidrio y la caja de cartón de tus productos Asfodea. Esos son los materiales que podemos procesar."
   },
   {
     question: "+Debo traer otro comprobante?",
